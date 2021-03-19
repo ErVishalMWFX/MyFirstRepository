@@ -1,2 +1,6 @@
 This is my first text!
+<<<<<<< HEAD
 Edited from PC.
+=======
+Edited from PC.
+>>>>>>> parent of 999b22a (Update demo.txt)
