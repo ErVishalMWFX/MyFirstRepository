@@ -4,5 +4,8 @@ Edited from PC.
 =======
 Edited from PC.
 >>>>>>> parent of 999b22a (Update demo.txt)
+<<<<<<< HEAD
 
 wdawdwawd
+=======
+>>>>>>> parent of c97f7b3 (push one change)
