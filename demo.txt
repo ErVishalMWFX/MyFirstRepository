@@ -21,3 +21,4 @@ secondLine
 This line should not remove when resetting
 
 will revert other file change
+tst
